@@ -16,10 +16,6 @@
       <text-link href="https://space.bilibili.com/335320968">
         Powered By WIFI连接超时
       </text-link>
-      |
-      <text-link href="https://beian.miit.gov.cn/">
-        蜀ICP备2022004197号
-      </text-link>
     </p>
   </div>
   <div v-else class="foot-container-phone">
