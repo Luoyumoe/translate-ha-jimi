@@ -47,11 +47,6 @@
         Powered By WIFI连接超时
       </text-link>
     </p>
-    <p>
-      <text-link href="https://beian.miit.gov.cn/">
-        蜀ICP备2022004197号
-      </text-link>
-    </p>
   </div>
 </template>
 
